@@ -2,4 +2,5 @@
 
 * some changes
 * more changes
-* chchchchanges
+* chchchchanges.md stands for markdown
+The README.md file is the landing of the repository.
